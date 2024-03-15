@@ -59,7 +59,7 @@
    
    git add . #perintah ini memilih seluruh file sekaligus
    # atau
-   git add "NIM/Praktikum n/FilePythonYangBerubahAtauDitambahkan.java" #perintah ini memilih file tertentu
+   git add "NIM/Praktikum n/FileJavaYangBerubahAtauDitambahkan.java" #perintah ini memilih file tertentu
    
    SAYA SARANKAN JANGAN PAKAI git add . UNTUK MENGHINDARI PENAMBAHAN UNTUK SEMUA FILE TERMASUK FILE YANG TIDAK DIINGINKAN
    LEBIH BAIK MEMAKAI git add "NIM/Praktikum n/nama_file.java" UNTUK MENAMBAHKAN FILE
