@@ -1,4 +1,4 @@
-class Person{
+class Orang{
     String name;
     int age;
     boolean isMale;
@@ -26,13 +26,13 @@ class Person{
 }
 public class LiveCodingTP1 {
     public static void main(String[]args){
-        Person person1 = new Person();
-        person1.setName("Jevon");
-        person1.setAge(18);
-        person1.setGender(true);
+        Orang Orang1 = new Orang();
+        Orang1.setName("Jevon");
+        Orang1.setAge(18);
+        Orang1.setGender(true);
 
-        System.out.println(person1.getName());
-        System.out.println(person1.getAge());
-        System.out.println(person1.getGender());
+        System.out.println(Orang1.getName());
+        System.out.println(Orang1.getAge());
+        System.out.println(Orang1.getGender());
     }
 }
