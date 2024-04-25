@@ -2,7 +2,7 @@ class Cuboid{
     double height;
     double width;
     double length;
-    
+
     double getVolume(){
 
         return length*width*height;
@@ -17,8 +17,7 @@ public class TP2_3_H071231053 {
         cuboid.height = 11.0; 
         System.out.printf("Volume = %.2f%n", cuboid.getVolume());
     }
-        
+
 
 
     }
-
