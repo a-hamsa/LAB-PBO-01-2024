@@ -1,5 +1,3 @@
-import java.security.PublicKey;
-
 public class Series {
     String judul,sutradara,genre,sinopsis;
     int jumlahEpisode;
