@@ -1,0 +1,4 @@
+1. fitur login berulang(ketik 3 untuk keluar)
+2. username yang sudah diregister tidak boleh sama
+3. pass tidak boleh kurang dari 8 karakter dan tidak memiliki spasi
+4. suruhan untuk input ulang ketika inputan tidak sesuai(diminta int yang diinput malah string)
