@@ -1,4 +1,4 @@
-package login_app.utils;
+package login_app.StringUtils;
 
 public class StringUtils {
     public static String generateNickname(String fullName) {

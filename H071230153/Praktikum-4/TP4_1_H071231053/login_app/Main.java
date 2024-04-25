@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 import login_app.models.Profile;
 import login_app.models.User;
-import login_app.utils.StringUtils;
+import login_app.StringUtils.StringUtils;
 
 public class Main {
     private static ArrayList<User> listUser = new ArrayList<>();
@@ -35,7 +35,7 @@ public class Main {
             case "3":
                 break;
             default:
-                System.out.println("Salah input bang");
+                System.out.println("Input 1-3 saja.");
                 runApp();
         }
     }
@@ -141,4 +141,4 @@ public class Main {
         System.out.println("Hobby\t\t: " + profile.getHobby());
         System.out.println("NickName\t: " + profile.getNickName());
     }
-}
+}   

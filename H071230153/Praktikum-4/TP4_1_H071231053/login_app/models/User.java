@@ -21,6 +21,4 @@ public class User extends Profile {
     public void setPassword(String password) {
         this.password = password;
     }
-
-    
 }
