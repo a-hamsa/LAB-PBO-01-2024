@@ -1,0 +1,5 @@
+1. jeda pada "sedang diproses. . ." 
+2. ada pertanyaan tambahan dalam class Keluarga (Saudara dan jumlah anak jika sudah menikah)
+3. pada opsi tampilkan karyawan ada opsi menampilkan detail seadanya dan semua detail(perlu nama karyawan dicari)
+4. ada opsi jabatan
+5. ada opsi mengubah gaji sebelumnya ke gaji sekarang
