@@ -27,7 +27,6 @@ public class UIThread implements Runnable{
                 Thread.sleep(1000);
                 waktu_eksekusi++;
                 System.out.printf("Loading...  (%ds)\n", UIThread.waktu_eksekusi);
-                // System.out.printf("\nLoading...  (%ds)",executionTime);
             } catch (InterruptedException e) {
                 Thread.currentThread().interrupt();
             }
