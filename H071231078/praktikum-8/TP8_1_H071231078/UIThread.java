@@ -11,7 +11,7 @@ public class UIThread implements Runnable{
     public void run() {
         ExecutorService executor = Executors.newFixedThreadPool(3);
 
-
+        //menu
         System.out.println("Start Load " + data_sumber + " Data");
 
         for (int i = 0; i < data_sumber; i++) {
