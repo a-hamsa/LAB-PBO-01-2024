@@ -1,0 +1,14 @@
+#body{
+    -fx-background-image: url("/image/image-2.png");
+    -fx-background-size: cover;
+}
+
+#button {
+    -fx-background-color: #4667DF;
+    -fx-font-weight: bold;
+    -fx-text-fill:white;
+}
+
+#profile-text{
+    -fx-font-weight: bold; 
+}

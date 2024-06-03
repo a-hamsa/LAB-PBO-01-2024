@@ -1,0 +1,36 @@
+#helloText {
+    -fx-font-size:25px;
+    -fx-text-fill:#4667DF;
+    -fx-font-weight: bold;
+}
+
+#welcomeText {
+    -fx-font-size: 25px;
+    -fx-text-fill:#4667DF;
+    -fx-font-weight: bold;
+}
+
+#name, #id {
+    -fx-border-color: black;  
+    -fx-border-width: 1px;  
+    -fx-pref-width: 220px; 
+    -fx-pref-height: 5px;  
+    -fx-border-radius: 5px
+}
+
+#button {
+    -fx-background-color: #4667DF;
+    -fx-font-weight: bold;
+    -fx-text-fill:white;
+}
+
+#image {
+    -fx-pref-width: 800px; 
+    -fx-pref-height: 500px; 
+    -fx-background-image: url("/image/image-2.png");
+    -fx-background-size: cover; /* agar gambar latar belakang memenuhi seluruh area */
+    -fx-background-position: center; /* untuk memposisikan gambar latar belakang ke tengah */
+    -fx-background-repeat: no-repeat; /* agar gambar latar belakang tidak diulang */
+    /* -fx-background-color: #4667DF; warna latar belakang jika gambar tidak memenuhi seluruh area */
+}
+
